@@ -1,5 +1,5 @@
 <?php 
-class Toys extends Products {
+class Toy extends Product {
 
     private $material;
 

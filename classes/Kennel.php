@@ -1,5 +1,5 @@
 <?php 
-class Kennels extends Products {
+class Kennel extends Product{
 
     private $size;
 
